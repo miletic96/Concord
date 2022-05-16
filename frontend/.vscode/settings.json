@@ -1,0 +1,5 @@
+{
+    "nuxt.isNuxtApp": true,
+    "prettier.printWidth": 80,
+    "editor.formatOnSave": true
+}

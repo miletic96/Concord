@@ -1,0 +1,110 @@
+[
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/about-us"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog"
+  },
+  {
+    "name": "careers",
+    "path": "/careers",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\careers.vue",
+    "chunkName": "pages/careers"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq"
+  },
+  {
+    "name": "index copy",
+    "path": "/index%20copy",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\index copy.vue",
+    "chunkName": "pages/index copy"
+  },
+  {
+    "name": "insights",
+    "path": "/insights",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\insights.vue",
+    "chunkName": "pages/insights"
+  },
+  {
+    "name": "mobile",
+    "path": "/mobile",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\mobile\\\\index.vue",
+    "chunkName": "pages/mobile/index"
+  },
+  {
+    "name": "skills",
+    "path": "/skills",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\skills\\\\index.vue",
+    "chunkName": "pages/skills/index"
+  },
+  {
+    "name": "mobile-careers",
+    "path": "/mobile/careers",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\mobile\\\\careers.vue",
+    "chunkName": "pages/mobile/careers"
+  },
+  {
+    "name": "mobile-test",
+    "path": "/mobile/test",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\mobile\\\\test.vue",
+    "chunkName": "pages/mobile/test"
+  },
+  {
+    "name": "skills-cro",
+    "path": "/skills/cro",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\skills\\\\cro.vue",
+    "chunkName": "pages/skills/cro"
+  },
+  {
+    "name": "skills-mobile",
+    "path": "/skills/mobile",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\skills\\\\mobile.vue",
+    "chunkName": "pages/skills/mobile"
+  },
+  {
+    "name": "skills-paid",
+    "path": "/skills/paid",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\skills\\\\paid.vue",
+    "chunkName": "pages/skills/paid"
+  },
+  {
+    "name": "skills-seo",
+    "path": "/skills/seo",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\skills\\\\seo.vue",
+    "chunkName": "pages/skills/seo"
+  },
+  {
+    "name": "articles-slug",
+    "path": "/articles/:slug?",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\articles\\\\_slug.vue",
+    "chunkName": "pages/articles/_slug"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug?",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\categories\\\\_slug.vue",
+    "chunkName": "pages/categories/_slug"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

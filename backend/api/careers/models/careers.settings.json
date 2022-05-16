@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "careers",
+  "info": {
+    "name": "Careers"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "CareersSeo": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.seo"
+    }
+  }
+}

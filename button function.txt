@@ -1,0 +1,46 @@
+<script>
+import scrollindi from "../components/scrollindi.vue";
+import gsap from 'gsap';
+import gsap from "gsap";
+export default {
+  components: {
+    scrollindi,
+  },
+  layout: "content-pages",
+  methods: {
+    Press(el) {
+      let id= parseInt(el)
+      let sec = "section"
+      let sec1 = sec + id
+      let sec2 = sec + (id+1)
+      let current = document.getElementById(sec1)
+      let next = document.getElementById(sec2)
+      console.log(sec1)
+      console.log(sec2)
+      next.style.display = "block"
+      
+      let id = parseInt(el);
+      if (id == 1) {
+        gsap.timeline().to(".about-pc", {yPercent: -70, duration: 1.5},0)
+                        .to(".section", {yPercent: -100, duration: 1.5},0)
+                        .to("#scrollper", {yPercent: (100/6)*id, duration: 1.5},0)
+        gsap
+          .timeline()
+          .to(".about-pc", { yPercent: -70, duration: 1.5 }, 0)
+          .to(".section", { yPercent: -100, duration: 1.5 }, 0)
+          .to("#scrollper", { yPercent: (100 / 6) * id, duration: 1.5 }, 0);
+      } else {
+        gsap.timeline().to(".section", {yPercent: -100*id},0)
+                        .to("#scrollper", {yPercent: (100/6)*id},0)
+        gsap
+          .timeline()
+          .to(".section", { yPercent: -100 * id, duration: 1.5  }, 0)
+          .to("#scrollper", { yPercent: (100 / 6) * id, duration: 1.5  }, 0);
+      }
+    gsap.to("#scrollper", {yPercent: (100/6)*id})
+      // window.pageYOffset  += current.offsetHeight;
+      gsap.to("#scrollper", { yPercent: (100 / 6) * id });
+    },
+  },
+};
+</script>
