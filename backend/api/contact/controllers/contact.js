@@ -30,6 +30,7 @@
             Phone: ${entity.phone}
             Business: ${entity.business}
             Position: ${entity.position}
+            Message: ${entity.message}
           `,
         });
       

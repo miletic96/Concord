@@ -3,108 +3,126 @@
     "name": "about-us",
     "path": "/about-us",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\about-us.vue",
-    "chunkName": "pages/about-us"
+    "chunkName": "pages/about-us",
+    "_name": "_fc05b9c4"
   },
   {
     "name": "blog",
     "path": "/blog",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\blog.vue",
-    "chunkName": "pages/blog"
+    "chunkName": "pages/blog",
+    "_name": "_190b17e2"
   },
   {
     "name": "careers",
     "path": "/careers",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\careers.vue",
-    "chunkName": "pages/careers"
+    "chunkName": "pages/careers",
+    "_name": "_a9affdb6"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact"
+    "chunkName": "pages/contact",
+    "_name": "_41aee1e0"
   },
   {
     "name": "faq",
     "path": "/faq",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\faq.vue",
-    "chunkName": "pages/faq"
+    "chunkName": "pages/faq",
+    "_name": "_1c7c7706"
   },
   {
     "name": "index copy",
     "path": "/index%20copy",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\index copy.vue",
-    "chunkName": "pages/index copy"
+    "chunkName": "pages/index copy",
+    "_name": "_2a4e5bc3"
   },
   {
     "name": "insights",
     "path": "/insights",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\insights.vue",
-    "chunkName": "pages/insights"
+    "chunkName": "pages/insights",
+    "_name": "_fdc270ca"
   },
   {
     "name": "mobile",
     "path": "/mobile",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\mobile\\\\index.vue",
-    "chunkName": "pages/mobile/index"
+    "chunkName": "pages/mobile/index",
+    "_name": "_64c04360"
   },
   {
     "name": "skills",
     "path": "/skills",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\skills\\\\index.vue",
-    "chunkName": "pages/skills/index"
+    "chunkName": "pages/skills/index",
+    "_name": "_48c44fc0"
   },
   {
     "name": "mobile-careers",
     "path": "/mobile/careers",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\mobile\\\\careers.vue",
-    "chunkName": "pages/mobile/careers"
+    "chunkName": "pages/mobile/careers",
+    "_name": "_19e6177a"
   },
   {
     "name": "mobile-test",
     "path": "/mobile/test",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\mobile\\\\test.vue",
-    "chunkName": "pages/mobile/test"
+    "chunkName": "pages/mobile/test",
+    "_name": "_a0437318"
   },
   {
     "name": "skills-cro",
     "path": "/skills/cro",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\skills\\\\cro.vue",
-    "chunkName": "pages/skills/cro"
+    "chunkName": "pages/skills/cro",
+    "_name": "_cf9a6164"
   },
   {
     "name": "skills-mobile",
     "path": "/skills/mobile",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\skills\\\\mobile.vue",
-    "chunkName": "pages/skills/mobile"
+    "chunkName": "pages/skills/mobile",
+    "_name": "_27729fa4"
   },
   {
     "name": "skills-paid",
     "path": "/skills/paid",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\skills\\\\paid.vue",
-    "chunkName": "pages/skills/paid"
+    "chunkName": "pages/skills/paid",
+    "_name": "_29e79f4e"
   },
   {
     "name": "skills-seo",
     "path": "/skills/seo",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\skills\\\\seo.vue",
-    "chunkName": "pages/skills/seo"
+    "chunkName": "pages/skills/seo",
+    "_name": "_5f30f96a"
   },
   {
     "name": "articles-slug",
     "path": "/articles/:slug?",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\articles\\\\_slug.vue",
-    "chunkName": "pages/articles/_slug"
+    "chunkName": "pages/articles/_slug",
+    "_name": "_a620a8c6"
   },
   {
     "name": "categories-slug",
     "path": "/categories/:slug?",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\categories\\\\_slug.vue",
-    "chunkName": "pages/categories/_slug"
+    "chunkName": "pages/categories/_slug",
+    "_name": "_0577b05e"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Milan\\\\Documents\\\\projects\\\\conc 2022\\\\concord-media\\\\frontend\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_bec5be7c"
   }
 ]
