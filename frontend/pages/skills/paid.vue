@@ -291,9 +291,9 @@ export default {
 </script>
 <style lang="css">
 .backgroundpaid {
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
-
+  padding-bottom: 150px;
   background: url(../../assets/images/paid.svg) no-repeat;
   background-position: 50vw;
   background-repeat: no-repeat;

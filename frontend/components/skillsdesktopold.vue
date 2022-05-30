@@ -2,7 +2,7 @@
   <div>
     <div class="main">
       <div class="maincontent">
-        <div class="overlay"><p class="pt-cb">skills</p></div>
+        <!-- <div class="overlay"><p class="pt-cb">skills</p></div> -->
 
         <div class="skillRow d-flex" id="organic">
           <div class="hrdiv"><hr /></div>
